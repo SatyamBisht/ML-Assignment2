@@ -18,7 +18,7 @@ Dependent/Response Variable: logisticY
 
 Files in the Repository:
 
-logistic_regression_scratch.py: Contains the implementation of logistic regression and related functions.
+logistic_regression.py: Contains the implementation of logistic regression and related functions.
 
 logisticX.csv: The independent/predictor variables.
 
@@ -26,6 +26,6 @@ logisticY.csv: The dependent/response variable.
 
 README.md: This file.
 
-nb.ipynb-contains the code with plots 
+jpnb.ipynb-contains the code with plots 
 
 train_and_plot.py-code for training and ploting purpose
